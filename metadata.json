@@ -1,0 +1,5 @@
+{
+  "name": "Re-React Lab & Icon Explorer",
+  "description": "An interactive dashboard for exploring custom React hook implementations and a massive emoji-based icon system. Features an AI-powered code analyzer and a high-performance icon search engine.",
+  "requestFramePermissions": []
+}
